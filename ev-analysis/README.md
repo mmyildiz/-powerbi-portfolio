@@ -4,9 +4,9 @@ This dashboard provides a comprehensive view of the used Electric Vehicle (EV) m
 
 ### Tools & Technologies
 - Power BI
+- SQL
 - DAX (KPI cards, dynamic measures)
 - Data modelling (relationships, time intelligence)
-- Dummy dataset (anonymized for confidentiality)
 
 ### Key Features
 - KPIs: Total EV Sales, Market Share, MDS, Avg. Odometer, Avg. Price
