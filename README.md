@@ -1,2 +1,2 @@
 # -powerbi-portfolio
-My Power BI &amp; BI project showcase (dummy data)
+A curated collection of Business Intelligence projects using Power BI and Python, focused on sales analysis, market insights, and data quality—powered by dummy data.
