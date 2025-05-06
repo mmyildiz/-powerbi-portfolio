@@ -4,6 +4,7 @@ This dashboard provides performance monitoring of OEM dealers across regions. It
 
 ###  Tools & Technologies
 - Power BI
+- SQL
 - DAX (ranking measures, dynamic KPIs)
 - Data modelling for dealer-brand relationships
 - Simulated dataset anonymized for demonstration
