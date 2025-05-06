@@ -5,7 +5,6 @@ This project showcases a hybrid data solution combining Python and Power BI to i
 ###  Tools & Technologies
 - **Python** (Pandas, fuzzy matching, rule-based logic)
 - **Power BI** (DAX, visuals, slicers)
-- Dummy dataset (anonymized for demo purposes)
 
 ###  Key Features
 - Python script detects potential duplicates based on vehicle attributes (brand, model, km, price)
