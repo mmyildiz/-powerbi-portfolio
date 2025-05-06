@@ -51,7 +51,7 @@ Each folder contains:
 - Integrated visuals in Power BI  
 - Side-by-side comparison of flagged vehicles  
 - Business logic: detect overposting, fraud, or data errors  
-- 📎 *Includes screenshot*
+-  *Includes screenshot*
 
 ---
 
