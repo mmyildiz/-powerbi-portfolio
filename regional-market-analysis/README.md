@@ -4,9 +4,9 @@ This dashboard presents a geographic and performance-based view of automotive sa
 
 ###  Tools & Technologies
 - Power BI
+- SQL
 - DAX (KPIs, dynamic filters, measures)
 - Turkish province-level mapping
-- Dummy dataset (region-based market simulation)
 
 ###  Key Features
 - Interactive map of Turkey with province-level sales intensity (heatmap)
